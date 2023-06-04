@@ -1,5 +1,5 @@
 # shivamyadav<h1 align="center">Hi 👋, I'm Shivam yadav</h1>
-<h3 align="center">A passionate Machine learning|Data scientist|</h3><img align="right" alt="coding" src="https://bsmedia.business-standard.com/_media/bs/img/article/2021-07/11/full/1626023772-9613.jpg?im=FeatureCrop,width=826,height=465">
+<h3 align="center">A passionate Machine learning|Data scientist|</h3><img align="right" alt="coding" src="https://bsmedia.business-standard.com/_media/bs/img/article/2021-07/11/full/1626023772-9613.jpg?im=FeatureCrop,width=500,height=465">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shivam31817&label=Profile%20views&color=0e75b6&style=flat" alt="shivam31817" /> </p>
 
